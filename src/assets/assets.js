@@ -88,7 +88,7 @@ export const projectsData = [
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "As first-time buyers, we had many questions. They explained everything clearly, offered honest advice, and made the entire experience incredibly smooth and enjoyable. We couldn’t be happier!"
     },
     {
         name: "James Washington",
@@ -96,6 +96,6 @@ export const projectsData = [
         image: profile_img_3,
         alt: "Portrait of James Washington",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "From pricing to closing, the process was efficient, transparent, and well-coordinated. Their market insights and negotiation skills helped us secure a great deal."
     }
 ];
